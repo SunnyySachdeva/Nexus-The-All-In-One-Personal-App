@@ -12,7 +12,7 @@ docker run -p 5105:5105 sunnysd22/nexus-dashboard-amd
 ### Manual
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nexus-dashboard.git
+git clone https://github.com/SunnyySachdeva/Nexus-The-All-In-One-Personal-App.git
 cd nexus-dashboard
 ```
 
